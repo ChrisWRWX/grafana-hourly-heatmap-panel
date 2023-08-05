@@ -14,8 +14,8 @@
     "sign": "grafana-toolkit plugin:sign"
   },
   "homepage": "https://grafana.com/plugins/marcusolsson-hourly-heatmap-panel",
-  "bugs": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/issues",
-  "repository": "github:marcusolsson/grafana-hourly-heatmap-panel",
+  "bugs": "https://github.com/chriswrwx/grafana-hourly-heatmap-panel/issues",
+  "repository": "github:chriswrwx/grafana-hourly-heatmap-panel",
   "author": {
     "name": "Marcus Olsson",
     "email": "marcus.olsson@hey.com",

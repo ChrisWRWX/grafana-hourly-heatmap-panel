@@ -52,7 +52,7 @@ const buildColorPaletteOptions = () => {
 };
 
 export const plugin = getPanelPluginOrFallback(
-  'marcusolsson-hourly-heatmap-panel',
+  'chriswrwx-hourly-heatmap-panel',
   new PanelPlugin<HeatmapOptions, HeatmapFieldConfig>(HeatmapPanel)
     .useFieldConfig({
       useCustomConfig: (builder) => {

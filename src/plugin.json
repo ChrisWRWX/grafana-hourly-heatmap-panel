@@ -6,8 +6,8 @@
   "info": {
     "description": "Heatmap for the hours of the day",
     "author": {
-      "name": "Marcus Olsson",
-      "url": "https://github.com/marcusolsson"
+      "name": "Chris",
+      "url": "https://github.com/chriswrwx"
     },
     "keywords": ["heatmap"],
     "logos": {
@@ -17,11 +17,11 @@
     "links": [
       {
         "name": "Website",
-        "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        "url": "https://github.com/chriswrwx/grafana-hourly-heatmap-panel"
       },
       {
         "name": "License",
-        "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/blob/main/LICENSE"
+        "url": "https://github.com/chriswrwx/grafana-hourly-heatmap-panel/blob/main/LICENSE"
       }
     ],
     "screenshots": [

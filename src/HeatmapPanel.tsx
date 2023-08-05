@@ -6,7 +6,7 @@ import { HeatmapOptions } from './types';
 
 const usage = {
   schema: [{ type: FieldType.time }, { type: FieldType.number }],
-  url: 'https://github.com/marcusolsson/grafana-hourly-heatmap-panel',
+  url: 'https://github.com/chriswrwx/grafana-hourly-heatmap-panel',
 };
 
 interface Props extends PanelProps<HeatmapOptions> {}
