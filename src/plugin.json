@@ -2,7 +2,7 @@
   "$schema": "https://github.com/grafana/grafana/raw/main/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Hourly heatmap",
-  "id": "marcusolsson-hourly-heatmap-panel",
+  "id": "chriswrwx-hourly-heatmap-panel",
   "info": {
     "description": "Heatmap for the hours of the day",
     "author": {
